@@ -49,7 +49,8 @@ def intro():
     print('        a  = a is in the word and in the right position')
     print("\nYou'll only get 6 tries, so good luck!")
 
-    input('Press enter to begin...')
+    input('Press enter to start...')
+    time.sleep(1)
 
 
 def display_board(board):
