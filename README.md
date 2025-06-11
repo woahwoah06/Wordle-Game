@@ -6,7 +6,8 @@ As you can tell, this is basically a Wordle clone where you have to try to guess
 # 🚀 Getting Started
 
 **Step 1** - Download and install Python here: https://www.python.org/downloads/release/python-3134/ (scroll down)  
-**Step 2** - Run the game
+**Step 2** - Download the game files  
+**Step 3** - Run the game
 
 # 🎓 Rules/Mechanics
 
