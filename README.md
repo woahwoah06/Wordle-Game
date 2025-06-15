@@ -12,6 +12,7 @@ As you can tell, this is basically a Wordle clone where you have to try to guess
 # 🎓 Rules/Mechanics
 
 You will have to try to guess a random 5 letter word by entering 5 letter words.  
+The words that you enter will give you hints on what the random word might be.  
   
 If any of the letters in your word are in the right position, they will remain unchanged.  
 However, if any of the letters are in the wrong spot, but are still present in the word,  
